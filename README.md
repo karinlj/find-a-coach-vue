@@ -1,24 +1,50 @@
 # find-a-coach
 
-## Project setup
+## Description
+
+Application in progress for exploring Vuex. Made with Vue.js, Vuex and Firebase as backend.
+
+## Prerequisites
+
+NodeJS
+
+## Installation
+
+To clone
+
+`git clone https://github.com/karinlj/find-a-coach-vue.git`
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## To build
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Then use the dist folder you get.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Built With
+
+- vue.js
+- Vuex
+- CSS
+- Firebase
+
+## Author
+
+- **Karin Ljunggren** - [karinlj](https://github.com/karinlj)
+
+## Acknowledgements
+
+Thank's to Academind.  
+Course:Vue - The Complete Guide (w/ Router, Vuex, Composition API)  
+`https://www.udemy.com/course/vuejs-2-the-complete-guide/`
